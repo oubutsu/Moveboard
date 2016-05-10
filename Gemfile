@@ -41,7 +41,7 @@ gem 'slim-rails'
 #GoogleAnalytics用のgem
 gem 'google-analytics-rails'
 
-gem 'activeadmin', github: 'activeadmin'
+# gem 'activeadmin', github: 'activeadmin'
 gem 'devise'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
